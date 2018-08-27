@@ -1,0 +1,104 @@
+{
+  "collaborator": [
+    {
+      "id": 4,
+      "name": "antenor",
+      "photo": "antenor.jpg",
+      "birthday": "22/02/1984",
+      "email": "antenor@gmail.com",
+      "phonenumber": "2113313",
+      "mobile": "999999",
+      "id_address": "",
+      "id_occupation": "1",
+      "id_type_collaborator": "2"
+    },
+    {
+      "id": 5,
+      "name": "mariaa",
+      "photo": "maria.jpog",
+      "birthday": "10/10/2010",
+      "email": "maria@askasa.com",
+      "phonenumber": "212313213",
+      "mobile": "999999",
+      "id_address": "",
+      "id_occupation": "4",
+      "id_type_collaborator": "1"
+    },
+    {
+      "id": 6,
+      "name": "Lucas",
+      "photo": "lucas.png",
+      "birthday": "25/12/2015",
+      "email": "lucas@asdas.com.br",
+      "phonenumber": "325460000",
+      "mobile": "719885555",
+      "id_address": "",
+      "id_occupation": "2",
+      "id_type_collaborator": "1"
+    },
+    {
+      "id": 7,
+      "name": "Felipe",
+      "photo": "felipe.jpg",
+      "birthday": "25/15/2015",
+      "email": "felipeeee@gmail.com",
+      "phonenumber": "2132199",
+      "mobile": "878978977",
+      "id_address": "",
+      "id_occupation": "2",
+      "id_type_collaborator": "1"
+    }
+  ],
+  "solicitation": [
+    {
+      "id": 1,
+      "name": "AAAAAAAAAAAAAAAAAAAAA",
+      "photo": "/images/george_moura.jpg",
+      "birthday": "01/01/1990",
+      "email": "gwmoura@gmail.com",
+      "phonenumber": "(71) 9999-9999",
+      "id_address": 1,
+      "id_occupation": 1,
+      "id_type_collaborator": 1
+    },
+    {
+      "id": 2,
+      "name": "BBBBBBBBBBBBBBBBBBBBBB",
+      "photo": "/images/antenor_queiroz.jpg",
+      "birthday": "22/02/1984",
+      "email": "antenorq@gmail.com",
+      "phonenumber": "(71) 8888-8888",
+      "id_address": 2,
+      "id_occupation": 2,
+      "id_type_collaborator": 2
+    }
+  ],
+  "type_collaborator": [
+    {
+      "id": 1,
+      "description": "Morador"
+    },
+    {
+      "id": 2,
+      "description": "Representante"
+    }
+  ],
+  "occupation": [
+    {
+      "id": 1,
+      "description": "Analista de Sistemas"
+    },
+    {
+      "id": 2,
+      "description": "Gerente de Banco"
+    },
+    {
+      "id": 3,
+      "description": "Pedreiro"
+    },
+    {
+      "id": 4,
+      "description": "Cleaner"
+    }
+  ]
+}

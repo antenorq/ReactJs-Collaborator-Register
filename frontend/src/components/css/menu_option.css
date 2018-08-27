@@ -1,0 +1,19 @@
+#area_menu_option {
+  background-color: #ececec;
+  border-radius: 10px;
+  text-align: center;
+  padding: 30px;
+}
+
+#area_menu_option .icon img {
+  width: 110px !important;
+  margin-bottom: 10px;
+}
+
+#area_menu_option .text_option {
+  color: #555;
+}
+
+a {
+  text-decoration: none !important;
+}
