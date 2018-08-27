@@ -1,4 +1,5 @@
-# App Felipe Lucas
+# App ReactJs - Registration system for collaborators and requests
 
-backend - Laravel
-frontend - React
+backend: Laravel
+<br>
+frontend: ReactJs
